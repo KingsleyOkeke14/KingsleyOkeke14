@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kingsley Okeke
-- 👀 I’m interested in iOS development, build and release automation, and last but not the least, personal finance
+- 👀 I’m interested in test development, iOS development, build and release automation, and last but not the least, personal finance
 - My interest in personal finance has led me into the world of decentralized finance where I am now learning smart contract development.
 - Please feel free to check out my app on the app store "Mega Stonks". It is a free stock and crypto trading simulator built with dotnet and SwiftUI.
 - 🌱 I’m currently building for iOS with SwiftUI and TCA. Also building dapps with solidity on the Binance Smart Chain
