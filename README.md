@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kingsley Okeke
-- 👀 I’m interested in test development, iOS development, build and release automation, and last but not the least, personal finance
+- 👀 I’m interested in test development, web API development (Dotnet & Azure), iOS development, build and release automation, and last but not the least, personal finance
 - My interest in personal finance has led me into the world of decentralized finance where I am now learning smart contract development.
 - I have built iOS apps with SwiftUI and TCA. Currently building a very simple app with SwiftUI and Dotnet
 - 📫 Please feel free to reach me at Kingsleyokeke14@gmail.com
