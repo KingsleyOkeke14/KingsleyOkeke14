@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Kingsley Okeke
-- 👀 I’m interested in test development, web API development (Dotnet & Azure), iOS development, build and release automation, and last but not the least, personal finance
-- My interest in personal finance has led me into the world of decentralized finance where I am now learning smart contract development.
-- I have built iOS apps with SwiftUI and TCA. Currently building a very simple app with SwiftUI and Dotnet
+- 👀 My experience developing automated test applications and build processes allows me to understand the full software development lifecycle of applications. Having worked with various test frameworks like NUnit, XCTest, and Selenium, I am well versed with developing unit, integration and UI test applications for web APIs, mobile and web applications.
+- I also enjoy building consumer applications in my free time.
+- 4+ years of experience building web APIs with C# and DotNet.
+- 3+ years of experience building iOS apps with UIKit and SwiftUI.
 - 📫 Please feel free to reach me at Kingsleyokeke14@gmail.com
 
 <!---
