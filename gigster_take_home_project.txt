@@ -1,0 +1,17 @@
+1. Create high level Test Plan for "Rent a car" functionality of https://www.lyft.com/rider/rentals.
+2. Describe in details at least 2 the most critical scenarios (1 positive and 1 negative) to test “Rent a car” form functionality of https://www.lyft.com/rider/rentals.
+
+As of the 1st of September, 2023, Lyft no longer offers car rental services. Please find the disclaimer at the following link: https://www.lyft.com/blog/posts/introducing-lyft-rentals.
+However, to complete this assesment, I will use Uber's Car rental form (https://m.uber.com/go/rent) page. 
+
+UBER RENT A CAR TEST PLAN (https://m.uber.com/go/rent)
+
+The test plan for the page will be broken down into 5 test suites from a high level
+
+1. Form Validation
+    - Verify the user is able to select an age range from the "Age Range" drop down.
+    - Verify the "Pickup Location" text field is enabled and returns the correct response for a search query.
+    - Verify that when the "Different Location" option is clicked, the "Return Location" text field is visible.
+    - Verify the Date picker field can be selected and the drop off date is always greater than the pickup date.
+
+2. Vehicle Browsing 
