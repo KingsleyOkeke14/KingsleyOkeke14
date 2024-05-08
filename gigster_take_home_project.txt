@@ -6,12 +6,37 @@ However, to complete this assesment, I will use Uber's Car rental form (https://
 
 UBER RENT A CAR TEST PLAN (https://m.uber.com/go/rent)
 
-The test plan for the page will be broken down into 5 test suites from a high level
+The test plan for the page will be broken down into 2 categories. Funtional Tests and Usability & Performance Tests at a high level.
 
+A. Functional Test 
 1. Form Validation
     - Verify the user is able to select an age range from the "Age Range" drop down.
     - Verify the "Pickup Location" text field is enabled and returns the correct response for a search query.
     - Verify that when the "Different Location" option is clicked, the "Return Location" text field is visible.
     - Verify the Date picker field can be selected and the drop off date is always greater than the pickup date.
+    - Verify the "Search" button is enabled and it can be clicked
+    - Verify a list of vehicles appear.
 
-2. Vehicle Browsing 
+2. Vehicle Browsing & Filter validation
+    - Verify Each vehicle shown has the (Company logo, Name, Price/day, Total price, Distance, etc.)
+    - Verify the "Sort By" filters adhere to the specifications. The vehicle search results should update and rank to reflect each option under "Sort By".
+    - Verify the "Deals" filters adhere to the specifications. The vehicle search results should update and rank to reflect each option under "Deals".
+    - Verify the vehicle search results reflect the selected option for "Small, Medium and or Large" vehicles.
+    - Verify the "Payment Options" filters adhere to the specifications. The vehicle search results should update and rank to reflect each selected option under "Payment Options".
+    - Verify the "Companies" filters adhere to the specifications. The vehicle search results should update and rank to reflect each selected option under "Companies".
+    - Verify the "Pick Location" filter adheres to the specifications. Only vehicles that can be picked up from the selected location should be visible. 
+
+3. Booking & Booking Confirmation 
+    - Verify the usercan select a vehicle option to book 
+    - Verify the "Review" page for the booking is loaded with the information and pricing
+    - Verify the booking confirmation is sent via email 
+    - Verify the booking confirmation sent to the email matches the booking "Review" summary on the web
+    
+
+B. Usability and Performance Test
+1. Cross Browser Testing (Chrome, Firefox, Safari, etc)
+2. Navigation with mouse 
+3. Navigation with Keyboard 
+4. Page load times should adhere to specifications 
+5. Evaluate Readability and colour 
+6. Load test the application to ensure the load times still adhere to specifications under extreme scenarios. 
